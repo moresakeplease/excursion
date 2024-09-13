@@ -14,3 +14,13 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+.h2--header {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.h4--sub{
+    font-size: 21px;
+    color: gray;
+}
