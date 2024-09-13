@@ -3,16 +3,11 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/**HEADINGS**/
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: #fff;
-}
-
-.link--cta {
-    font-size: 16px;
-    color: aquamarine;
 }
 
 .h2--header {
@@ -25,3 +20,10 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+/**LINKS**/
+.link--cta {
+    font-size: 16px;
+    color: aquamarine;
+}
+
