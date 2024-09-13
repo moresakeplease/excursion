@@ -27,3 +27,7 @@ body {
     color: aquamarine;
 }
 
+.footer--copyright{
+    text-align: right;
+    color:gray;
+}
